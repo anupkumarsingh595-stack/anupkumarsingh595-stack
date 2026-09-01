@@ -1,298 +1,415 @@
-## Hi there 👋
-
-<!-- ============================= -->
-<!-- 📈 GITHUB DIGITAL MARKETING README -->
-<!-- Author: Anup Kumar Singh     -->
-<!-- Brand: Indian Digital Growth -->
-<!-- ============================= -->
-
-<!-- HEADER: Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=1000&height=100&lines=01000100+01101001+01100111+01101001+01110100+01100001+01101100+00100001;$+ACCESSING+DIGITAL+GROWTH+SERVER+.+.+.;$+IDENTITY+VERIFIED:+ANUP+KUMAR+SINGH;$+WELCOME+TO+DIGITAL+MARKETING+x+AI+LAB;$+INITIALIZING+MARKETING+PROFILE+.+.+." alt="Typing SVG" />
-</div>
 
----
+# 👋 Hello, I'm **Anup Kumar**
 
-<h1 align="center">👤 About Me</h1>
+### 🚀 Digital Marketing • SEO • WordPress • Growth Strategy • AI Marketing
 
-<p align="center"><b>
-I am Anup Kumar Singh — Digital Marketing Specialist | WordPress Developer | SEO | AI Marketing
+<p>
+<strong>I build digital experiences that attract, engage and convert.</strong>
+</p>
+
+<p>
+SEO-driven websites • Content strategies • Social media • Analytics • AI-powered workflows
+</p>
+
 <br>
-India | Building Practical Digital Marketing Projects | Open to Digital Marketing, SEO, WordPress & Growth Opportunities
-</b></p>
 
----
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-Explore-111827?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:anupkumarsingh595@gmail.com">
+<img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<h1 align="center">🛠️ Skills</h1>
+<br><br>
 
-<h3>📈 Digital Marketing Fundamentals</h3>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue" alt="Profile Views"/>
 
-- Digital Marketing Strategy
-- Market & Competitor Research
-- Target Audience Research
-- Customer Persona
-- Customer Journey
-- Marketing Funnel
-- Brand Positioning
-- Lead Generation
-- Growth Strategy
-
-<h3>🌐 WordPress & Web Development</h3>
-
-- WordPress Website Development
-- Elementor
-- Business Websites
-- Landing Pages
-- WooCommerce
-- Responsive Design
-- Website Structure
-- Contact & Lead Forms
-- CTA Optimization
-- Conversion-Focused Websites
-
-<h3>🔎 SEO & Local SEO</h3>
-
-- Keyword Research
-- Search Intent
-- Keyword Mapping
-- On-Page SEO
-- Technical SEO Fundamentals
-- Internal Linking
-- Meta Titles & Descriptions
-- Image SEO
-- SEO Audits
-- Competitor SEO Research
-- Local SEO
-- Google Business Profile Strategy
-
-<h3>✍️ Content Marketing</h3>
-
-- SEO Blog Writing
-- Content Research
-- Content Strategy
-- Topic Research
-- Content Clusters
-- Pillar Content
-- Content Calendars
-- Website Copywriting
-- Landing Page Copy
-- CTA Copywriting
-- Content Repurposing
-
-<h3>📱 Social Media Marketing</h3>
-
-- Instagram Marketing
-- Facebook Marketing
-- LinkedIn Marketing
-- Social Media Strategy
-- Content Calendars
-- Reels Strategy
-- Carousel Content
-- Short-Form Content
-- Community Engagement
-- Social Media Analytics
-
-<h3>🎯 Performance Marketing</h3>
-
-- Google Ads
-- Search Campaigns
-- Keyword & Ad Research
-- Ad Copy
-- Landing Page Optimization
-- Meta Ads
-- Audience Research
-- Lead Generation Campaigns
-- Retargeting Concepts
-- Conversion Tracking
-- Campaign Analysis
-
-<h3>📧 Email Marketing</h3>
-
-- Email Marketing Strategy
-- Lead Magnets
-- Email Lists
-- Audience Segmentation
-- Welcome Sequences
-- Newsletter Strategy
-- Follow-Up Campaigns
-- Email Copywriting
-- Basic Email Automation
-- Email Performance Analysis
-
-<h3>📊 Analytics & Conversion</h3>
-
-- Google Analytics
-- Google Search Console
-- UTM Tracking
-- Traffic Analysis
-- Search Performance
-- Lead Tracking
-- Conversion Tracking
-- Funnel Analysis
-- KPI Reporting
-- Conversion Rate Optimization
-
-<h3>⚙️ Marketing Automation</h3>
-
-- Lead Capture Workflows
-- Email Automation
-- Lead Qualification
-- Customer Follow-Up
-- Marketing Workflows
-- CRM Concepts
-- Reporting Automation
-- Process Automation
-
----
-
-<h3>🎯 Role-Oriented Skills</h3>
-
-<b>📈 Digital Marketing Specialist</b>  
-Digital Strategy • SEO • Content Marketing • Social Media • Paid Advertising • Analytics • Lead Generation • CRO
-
-<b>🌐 WordPress Developer</b>  
-WordPress • Elementor • Business Websites • Landing Pages • WooCommerce • Lead Forms • Conversion-Focused Design
-
-<b>🔎 SEO / Local SEO Specialist</b>  
-Keyword Research • On-Page SEO • Technical SEO • Local SEO • Google Business Profile • Content Optimization • SEO Audits
-
-<b>✍️ Content Marketing Specialist</b>  
-SEO Content • Blog Strategy • Content Clusters • Copywriting • Content Calendars • Content Repurposing
-
-<b>📱 Social Media Specialist</b>  
-Instagram • Facebook • LinkedIn • Reels • Carousels • Content Strategy • Engagement • Analytics
-
-<b>🎯 Performance Marketing Specialist</b>  
-Google Ads • Meta Ads • Audience Research • Ad Copy • Landing Pages • Lead Generation • Conversion Tracking
-
-<b>📊 Analytics & CRO Specialist</b>  
-Google Analytics • Search Console • UTM Tracking • Funnels • Conversion Tracking • KPI Reporting • Optimization
-
-<b>⚙️ Marketing Automation Specialist</b>  
-Lead Workflows • Email Automation • CRM Concepts • Follow-Up Systems • Reporting • Process Automation
-
----
-
-<h1 align="center">⚔️ AI & Digital Marketing</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Generative_AI-0D1117?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-0D1117?style=for-the-badge&logo=markdown&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_SEO-0D1117?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Content-0D1117?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Marketing_Automation-0D1117?style=for-the-badge&logo=zapier&logoColor=white" />
-</p>
-
----
-
-<h1 align="center">📂 Projects</h1>
-
-1. **Indian Digital Growth — Digital Marketing Platform**
-   - WordPress Business Website
-   - SEO & Local SEO
-   - Service Landing Pages
-   - Content Strategy
-   - Lead Generation
-   - Analytics & Conversion Tracking
-
-2. **ABC Fitness Gym — Local Business Growth**
-   - WordPress Website
-   - Local Keyword Research
-   - Local SEO Strategy
-   - Google Business Profile Strategy
-   - SEO Content
-   - Social Media Plan
-   - Lead Generation Funnel
-
-3. **XYZ Digital Agency — Lead Generation System**
-   - Business Website
-   - Service Landing Pages
-   - SEO Strategy
-   - Content Marketing
-   - Lead Capture
-   - Discovery Call Funnel
-   - Conversion Optimization
-
-4. **ABC Fashion Store — E-Commerce Marketing**
-   - WooCommerce
-   - Product SEO
-   - Category SEO
-   - Keyword Research
-   - Social Media Marketing
-   - Google Ads Strategy
-   - Meta Ads Strategy
-   - CRO
-
-5. **Local SEO Audit System**
-   - Competitor Research
-   - Keyword Research
-   - Website SEO Audit
-   - Local SEO Audit
-   - Google Business Profile Checklist
-   - SEO Recommendations
-   - Client Audit Report
-
-6. **Digital Marketing Analytics Dashboard**
-   - Google Analytics
-   - Search Console
-   - UTM Tracking
-   - Traffic Analysis
-   - Lead Tracking
-   - Conversion Rate
-   - KPI Reporting
-
-7. **AI Marketing Assistant**
-   - AI Content Generation
-   - SEO Research
-   - Keyword Clustering
-   - Blog Planning
-   - Social Media Content
-   - Ad Copy
-   - Email Copy
-   - Lead Qualification
-   - Marketing Automation
-
----
-
-<h1 align="center">📧 Contact</h1>
-
-<p align="center">
-  <a href="mailto:anupkumarsingh595@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://anupkumarsingh595-stack.github.io/Portfolio-website/">
-    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<h1 align="center">🎓 Certifications</h1>
-
-- 📜 <a href="./certifications/Digital_Marketing.pdf" target="_blank"><b>Digital Marketing</b></a>
-- 📜 <a href="./certifications/SEO.pdf" target="_blank"><b>SEO Certification</b></a>
-- 📜 <a href="./certifications/WordPress.pdf" target="_blank"><b>WordPress Development</b></a>
-- 📜 <a href="./certifications/Google_Analytics.pdf" target="_blank"><b>Google Analytics / Measurement</b></a>
-- 📜 <a href="./certifications/AI_For_Marketing.pdf" target="_blank"><b>AI for Marketing</b></a>
-- 📜 <a href="./certifications/Generative_AI.pdf" target="_blank"><b>Generative AI</b></a>
-
-> Add only certifications that you have actually completed.
-
----
-
-<div align="center">
-  <h3 style="color:#00ff00">"Don't just market — understand, build, measure and grow."</h3>
 </div>
 
 ---
 
-<h1 align="center">🐍 Contribution Snake</h1>
+<div align="center">
+
+## ✨ Turning Ideas Into Digital Growth
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+### 🔎
+
+**SEO**
+
+<br>
+
+Visibility
+Organic Growth
+Local SEO
+Technical SEO
+
+</td>
+
+<td align="center" width="25%">
+
+### 🌐
+
+**WordPress**
+
+<br>
+
+Websites
+Landing Pages
+WooCommerce
+Conversions
+
+</td>
+
+<td align="center" width="25%">
+
+### 📱
+
+**Content & Social**
+
+<br>
+
+Content Strategy
+Social Media
+Campaigns
+Engagement
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖
+
+**AI Marketing**
+
+<br>
+
+AI Content
+AI SEO
+Automation
+Workflows
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 👨‍💻 About Me
+
+</div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+I'm <strong>Anup Kumar</strong>, a Digital Marketing professional interested in
+<strong>SEO, WordPress, content strategy, social media, analytics and AI-powered marketing.</strong>
 </p>
+
+<p align="center">
+I focus on building <strong>practical projects, structured marketing systems and real-world case studies</strong>
+rather than only collecting theoretical knowledge.
+</p>
+
+<p align="center">
+🎯 <strong>Goal:</strong> Help businesses improve their online visibility, generate qualified leads and build sustainable digital growth.
+</p>
+
+---
+
+<div align="center">
+
+## 🧩 What I Can Do
+
+</div>
+
+<table align="center">
+<tr>
+<td width="33%" align="center">
+
+### 🔍 SEO & Growth
+
+SEO Audits
+Keyword Research
+Competitor Analysis
+On-Page SEO
+Technical SEO
+Local SEO
+Content Strategy
+
+</td>
+
+<td width="33%" align="center">
+
+### 🌐 Websites
+
+WordPress
+Elementor
+Business Websites
+Landing Pages
+WooCommerce
+Website SEO
+Conversion Optimization
+
+</td>
+
+<td width="33%" align="center">
+
+### 📊 Marketing
+
+Social Media
+Google Ads
+Meta Ads
+Analytics
+Lead Generation
+Retargeting
+CRO
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🚀 Featured Work
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 📚 Digital Study Notes
+
+**SEO + Content + Digital Growth**
+
+A practical project focused on improving organic visibility, content structure and student-focused digital marketing.
+
+**Focus:**
+SEO • Content • Keyword Research • Conversion • Social Media
+
+</td>
+
+<td width="50%">
+
+### 📈 Indian Digital Growth
+
+**Digital Marketing Platform**
+
+A digital marketing brand focused on helping businesses with websites, SEO, social media and online growth.
+
+**Focus:**
+WordPress • SEO • Content • Lead Generation • Analytics
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📍 Local Business Growth
+
+**Local SEO Case Study**
+
+A structured approach for improving local search visibility and generating business enquiries.
+
+**Focus:**
+Local SEO • GBP • Keywords • Content • Leads
+
+</td>
+
+<td width="50%">
+
+### 🤖 AI Marketing Assistant
+
+**AI-Powered Marketing Workflow**
+
+A concept for streamlining content creation, SEO research, social media and marketing workflows using AI.
+
+**Focus:**
+AI • SEO • Content • Automation • Productivity
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🛠️ Marketing Stack
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=wordpress,html,css,googleanalytics,github,git" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Google_Search_Console-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white"/>
+<img src="https://img.shields.io/badge/Meta_Ads-0866FF?style=for-the-badge&logo=meta&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Rank_Math-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Semrush-FF642D?style=for-the-badge&logo=semrush&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ahrefs-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🔥 My Marketing Framework
+
+<br>
+
+### **RESEARCH → STRATEGY → BUILD → PROMOTE → MEASURE → OPTIMIZE**
+
+<br>
+
+|    Stage    | Focus                             |
+| :---------: | :-------------------------------- |
+| 🔎 Research | Audience • Keywords • Competitors |
+| 🧠 Strategy | Positioning • Funnel • Content    |
+|  🛠️ Build  | Website • Landing Pages • Content |
+|  📢 Promote | SEO • Social • Ads                |
+|  📊 Measure | Analytics • KPIs • Conversions    |
+| 🚀 Optimize | Testing • CRO • Growth            |
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 Analytics & Performance
+
+<br>
+
+**Google Analytics** • **Google Search Console** • **UTM Tracking**
+**Traffic Analysis** • **Keyword Performance** • **Lead Tracking**
+**Conversion Tracking** • **Funnel Analysis** • **KPI Reporting** • **CRO**
+
+</div>
+
+---
+
+<div align="center">
+
+## 📂 Portfolio Categories
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center">🔎<br><strong>SEO Projects</strong></td>
+<td align="center">📍<br><strong>Local SEO</strong></td>
+<td align="center">🌐<br><strong>WordPress</strong></td>
+<td align="center">📱<br><strong>Social Media</strong></td>
+</tr>
+<tr>
+<td align="center">✍️<br><strong>Content</strong></td>
+<td align="center">🎯<br><strong>Paid Ads</strong></td>
+<td align="center">📊<br><strong>Analytics</strong></td>
+<td align="center">🤖<br><strong>AI Marketing</strong></td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🎓 Certifications
+
+<br>
+
+📜 Digital Marketing
+📜 SEO
+📜 WordPress
+📜 Google Analytics / Measurement
+📜 AI for Marketing
+📜 Generative AI
+
+<br>
+
+<sub>Only verified and completed certifications are listed.</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌱 Currently Building
+
+### **A Practical Digital Marketing Portfolio**
+
+SEO • WordPress • Content • Social Media • Analytics • AI
+
+<br>
+
+**Learning → Building → Testing → Documenting → Improving**
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 Open to Opportunities
+
+<br>
+
+**Digital Marketing • SEO • WordPress • Content Marketing • Growth Marketing**
+
+<br>
+
+If you're interested in collaborating, working together,
+or discussing a digital project — let's connect.
+
+<br>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<br>
+
+### 💬 **"Don't just market. Understand. Build. Measure. Grow."**
+
+<br>
+
+⭐ **Thanks for visiting my profile!**
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+
+</div>
