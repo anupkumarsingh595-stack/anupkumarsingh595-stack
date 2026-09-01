@@ -14,11 +14,11 @@ SEO-driven websites • Content strategies • Social media • Analytics • AI
 
 <br>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/ak-neteng/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="YOUR_PORTFOLIO_URL">
+<a href=" https://anupdigitalgrowth.github.io/Portfolio-website/">
 <img src="https://img.shields.io/badge/Portfolio-Explore-111827?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 &nbsp;
